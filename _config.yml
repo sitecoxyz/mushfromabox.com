@@ -10,11 +10,11 @@ countdown:
   day: 1
   hour: 0
   minute: 0
-color1: FC354C
-color2: 29221F
-color3: 13747D
-color4: 0ABFBC
-color5: FCF7C5
+color1: '"#230F2B"'
+color2: '"#F21D41"'
+color3: '"#EBEBBC"'
+color4: '"#BCE3C5"'
+color5: '"#82B3AE"'
 owner:
   name: siteCo.xyz
   email: xyzsiteco@gmail.com
@@ -52,4 +52,4 @@ exclude:
 - node_modules
 - Gruntfile.js
 - package.json
-theme_num: 51
+theme_num: '59'
